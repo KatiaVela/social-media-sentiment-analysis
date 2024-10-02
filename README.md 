@@ -1,0 +1,16 @@
+# Social Media Sentiment Analysis
+
+This project performs sentiment analysis on social media posts using Python libraries such as NumPy, Pandas, Matplotlib, Seaborn, NLTK, and WordCloud. The project includes data preprocessing, sentiment classification, and data visualization.
+
+## Folder Structure
+
+- `data/`: Contains the dataset (e.g., `social_media_data.csv`).
+- `notebooks/`: Contains the Jupyter Notebook used for analysis (`Social_Media_Analysis.ipynb`).
+- `visualizations/`: Contains saved visualizations (e.g., `sentiment_distribution.png`, `positive_wordcloud.png`).
+
+## How to Run
+
+1. Clone the repository.
+2. Install required libraries:
+   ```bash
+   pip install numpy pandas matplotlib seaborn nltk wordcloud
